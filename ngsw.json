@@ -1,0 +1,149 @@
+{
+  "configVersion": 1,
+  "timestamp": 1714400447988,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.js",
+        "/manifest.webmanifest",
+        "/polyfills.js",
+        "/runtime.js",
+        "/styles.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Univers-Condensed.otf",
+        "/Univers-CondensedBold.otf",
+        "/assets/YFHNT.svg",
+        "/assets/YellowFolderHNT.svg",
+        "/assets/body-bg.jpg",
+        "/assets/folder.svg",
+        "/assets/icon.icns",
+        "/assets/icons/1024x1024.png",
+        "/assets/icons/128x128.png",
+        "/assets/icons/16x16.png",
+        "/assets/icons/24x24.png",
+        "/assets/icons/256x256.png",
+        "/assets/icons/32x32.png",
+        "/assets/icons/48x48.png",
+        "/assets/icons/512x512.png",
+        "/assets/icons/64x64.png",
+        "/assets/icons/96x96.png",
+        "/assets/icons/android-launchericon-144-144.png",
+        "/assets/icons/android-launchericon-192-192.png",
+        "/assets/icons/android-launchericon-48-48.png",
+        "/assets/icons/android-launchericon-512-512.png",
+        "/assets/icons/android-launchericon-72-72.png",
+        "/assets/icons/android-launchericon-96-96.png",
+        "/assets/lock.png",
+        "/assets/lock.svg",
+        "/assets/mac.ico",
+        "/assets/printer.svg",
+        "/body-bg.jpg",
+        "/fa-brands-400.ttf",
+        "/fa-brands-400.woff2",
+        "/fa-duotone-900.ttf",
+        "/fa-duotone-900.woff2",
+        "/fa-light-300.ttf",
+        "/fa-light-300.woff2",
+        "/fa-regular-400.ttf",
+        "/fa-regular-400.woff2",
+        "/fa-solid-900.ttf",
+        "/fa-solid-900.woff2",
+        "/fa-thin-100.ttf",
+        "/fa-thin-100.woff2",
+        "/fa-v4compatibility.ttf",
+        "/fa-v4compatibility.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/Univers-Condensed.otf": "a17e85c8823fd497c952fe94f41c8f9e76d8a460",
+    "/Univers-CondensedBold.otf": "30a122412352802d3922bbffe4def5f40f20ab66",
+    "/assets/YFHNT.svg": "08285cadc35db6155d07dd98ec0f7f1c0aa08cfd",
+    "/assets/YellowFolderHNT.svg": "08285cadc35db6155d07dd98ec0f7f1c0aa08cfd",
+    "/assets/body-bg.jpg": "64f52e44fbf8229bfaba96689d240a16747187b9",
+    "/assets/folder.svg": "a7e799d6d396e02cbedd26d80f47eeb0d204fa9c",
+    "/assets/icon.icns": "d237f327c564ad4bda175fdf951d176501aa7bbd",
+    "/assets/icons/1024x1024.png": "59d2256589d876e1c59db7d2b688a75cbfb2a972",
+    "/assets/icons/128x128.png": "2fe0b2b1efd8dd85441bea2957f201ca3c42c085",
+    "/assets/icons/16x16.png": "2baa40d9622bfc4dd6d42ecae873797b97e466c9",
+    "/assets/icons/24x24.png": "7f6416020ede498e1f44e0c2544f512c8b7e21a1",
+    "/assets/icons/256x256.png": "e5d833a445e1786d1c29c4c77714ca53eb7961d3",
+    "/assets/icons/32x32.png": "3799787b9e373fda4af63cf49243b74da0ee6acc",
+    "/assets/icons/48x48.png": "b723ef0bee456d95b4637ed081b9c2ceecc4af7a",
+    "/assets/icons/512x512.png": "c710033dcf48e7915e11a90c7b7e113d3224738c",
+    "/assets/icons/64x64.png": "bac213923d464564d45e8c221064c06abd913eb0",
+    "/assets/icons/96x96.png": "ca64ae96b2299dc143fc23f970e7995be514a258",
+    "/assets/icons/android-launchericon-144-144.png": "9df60bc0a8a034ab414a220ab64c401797cb39e6",
+    "/assets/icons/android-launchericon-192-192.png": "7443135c624279fadcdeaf0adbef0ac2ef5e30b0",
+    "/assets/icons/android-launchericon-48-48.png": "315af8647eb1a118a842ec5c8611c80f3c3b4efa",
+    "/assets/icons/android-launchericon-512-512.png": "24dbafb65f2fa405ad911e55a7c82ca4c813e0dd",
+    "/assets/icons/android-launchericon-72-72.png": "e25087da1ac2bc1a0fca2ff518ab0c89037a9fcc",
+    "/assets/icons/android-launchericon-96-96.png": "c1e90b34a681c855670ceca9d0e41ada43f205fd",
+    "/assets/lock.png": "8644367291f8dfd4f26daf2560141009ab5e273f",
+    "/assets/lock.svg": "c51bd1e6be2e84b1c8c46bad9f565e2cdae4f652",
+    "/assets/mac.ico": "f3cc3b8d9a920cc11702af842db61ae7cdd2613a",
+    "/assets/printer.svg": "17f124c6d1d96e5df931c2c111aeae6775564554",
+    "/body-bg.jpg": "64f52e44fbf8229bfaba96689d240a16747187b9",
+    "/fa-brands-400.ttf": "9cca90af50967445cd80106c80eadce9d689f42c",
+    "/fa-brands-400.woff2": "90fe0513c6a0ff1d8f564ec782fa54b559e7d3f8",
+    "/fa-duotone-900.ttf": "db27ddfcd452f8ae583d7a6cdcf55e0cdf45a631",
+    "/fa-duotone-900.woff2": "92b5c94d5fa89e7de09ec9ee225a565d7d06021c",
+    "/fa-light-300.ttf": "d5f6e9e5334f587cc343124198c1cdc6c9a7f6c2",
+    "/fa-light-300.woff2": "b89ad9dfe0720d47eb134b6a32806f185cc12ee3",
+    "/fa-regular-400.ttf": "1b15439bfb692103d34dde137609903a1209bbb8",
+    "/fa-regular-400.woff2": "6b97f2ea63d6e7e04006d0366b87697fb4a594d0",
+    "/fa-solid-900.ttf": "9d7a19d9613c2952fe42c3dd13792a79aaeb2148",
+    "/fa-solid-900.woff2": "06695b645047b29c333edac0c78a97922a135ad9",
+    "/fa-thin-100.ttf": "80e636b5be7e9284e24e672c1e870e953e6040dc",
+    "/fa-thin-100.woff2": "b30be8ab6969cfb6a7e9c016df5eb65a0d7ed51b",
+    "/fa-v4compatibility.ttf": "bc3b3644199d7b27ebf4d9b7b8a83700ccda0bd9",
+    "/fa-v4compatibility.woff2": "74ea9fd2adaecd28242108517e8352bb3891c479",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "e4c13f6c498d6535a905db22d3bf284ee924b9b8",
+    "/main.js": "d177460eacd9f44a8b4fcc951f4c24b641fc8551",
+    "/manifest.webmanifest": "f6bec956c638de62c430ff1a5eba77111950a8e1",
+    "/polyfills.js": "94c226e3e4bfd4d6cfd31553a669e7d3e2c10523",
+    "/runtime.js": "4fdce500f514c2a3f835c811b3133f899b257ef8",
+    "/styles.css": "2191882c9af7b4eb54ba4a9dcbd99b0b929d429b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
