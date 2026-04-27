@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/app.component.scss"],
+  "sourcesContent": [".border-warning-top {\n    border-top: #ffc107 1px solid !important;\n}"],
+  "mappings": ";AAAA,CAAA;AACI,cAAA,QAAA,IAAA;;",
+  "names": []
+}

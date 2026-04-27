@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/components/main/graph/graph.component.scss"],
+  "sourcesContent": [".chart-container {\n  position: relative;\n  width: 100%;\n  height: clamp(320px, 42vh, 460px);\n}\n"],
+  "mappings": ";AAAA,CAAA;AACE,YAAA;AACA,SAAA;AACA,UAAA,MAAA,KAAA,EAAA,IAAA,EAAA;;",
+  "names": []
+}

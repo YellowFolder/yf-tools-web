@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/components/uploads/uploads.component.scss"],
+  "sourcesContent": [".filename-cell {\n  max-width: 0; // Forces the cell to only take available space\n  width: 40%; // Explicitly set the filename column width\n}\n\n.filename-text {\n  white-space: nowrap;\n  overflow: hidden;\n  text-overflow: ellipsis;\n  display: block;\n  width: 100%;\n}"],
+  "mappings": ";AAAA,CAAA;AACE,aAAA;AACA,SAAA;;AAGF,CAAA;AACE,eAAA;AACA,YAAA;AACA,iBAAA;AACA,WAAA;AACA,SAAA;;",
+  "names": []
+}

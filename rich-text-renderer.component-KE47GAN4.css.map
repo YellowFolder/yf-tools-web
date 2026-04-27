@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/components/rich-text-renderer/rich-text-renderer.component.scss"],
+  "sourcesContent": [".rich-text-content {\n  line-height: 1.6;\n  \n  // Minimal custom styles, rely on Bootstrap\n  a {\n    text-decoration: none;\n    \n    &:hover {\n      text-decoration: underline;\n    }\n  }\n\n  // Ensure images don't overflow\n  img {\n    max-width: 100%;\n    height: auto;\n  }\n}\n"],
+  "mappings": ";AAAA,CAAA;AACE,eAAA;;AAGA,CAJF,kBAIE;AACE,mBAAA;;AAEA,CAPJ,kBAOI,CAAA;AACE,mBAAA;;AAKJ,CAbF,kBAaE;AACE,aAAA;AACA,UAAA;;",
+  "names": []
+}
